@@ -15,3 +15,8 @@
 2) y-axis: time
 
 
+# 3. Percentage of tool appearance at a specific surgical stage
+
+1) The proportion of the appearance of the tool in phase 5
+
+
